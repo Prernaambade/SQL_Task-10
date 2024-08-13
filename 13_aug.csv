@@ -1,0 +1,7 @@
+"physics_wallah_id","state","city","teacher_id","teacher_name","cource_id","cource_name","offline_students","online_students","total_students"
+"PW-01","Uttarpradesh","Lucknow,prayagraj,varanasi","PW-U","Alakh_Pandey","PY-01","PHYSICS",100,50,150
+"PW-02","Gujrat","Surat,Vadodra","PW-G","Sarvesh_sir","CH-02","CHEMISTRY",200,50,250
+"PW-03","Rajasthan","Kota,Jaipur","PW-R","Tarun_mishra","M-03","MATHS",220,50,270
+"PW-04","Maharashra","Mumbai,Pune","PW-M","Taniya_Mam","G-04","GEOLOGY",300,50,350
+"PW-05","Bihar","Patna,Bhagapur","PW-B","Manish_sir","Z-05","ZOOLOGY",160,40,200
+"PW-06","Madhya_pradesh","Indore,Bhopal","PW-M","Nimisha_mam","B-06","BIOLOGY",100,50,150
